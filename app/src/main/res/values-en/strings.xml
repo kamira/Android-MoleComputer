@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Molecular Calculator</string>
+    <string name="text_hint">Please enter Molecular formula&#8230;</string>
+    <string name="text_count">Count</string>
+    <string name="text_result">Result</string>
+    <string name="text_mole">Atoms</string>
+    <string name="text_mass">Weight(g)</string>
+    <string name="text_empty"> </string>
+    <string name="banner_ad_unit_id">ca-app-pub-5252576777158803/6621463663</string>
+</resources>

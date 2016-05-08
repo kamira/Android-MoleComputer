@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">莫耳計算機</string>
+    <string name="text_hint">請輸入分子式&#8230;</string>
+    <string name="text_count">計算</string>
+    <string name="text_result">結果</string>
+    <string name="text_mole">原子量</string>
+    <string name="text_mass">質量(g)</string>
+    <string name="text_empty"> </string>
+    <string name="banner_ad_unit_id">ca-app-pub-5252576777158803/6621463663</string>
+</resources>
